@@ -4,10 +4,6 @@ A modern web application that helps job seekers analyze their resumes against jo
 
 ![AI Resume Analyzer Screenshot](./assets/screenshot.png)
 
-## ⚡ Live Demo
-
-Check out the live demo: [AI Resume Analyzer](https://resume-analyzer-blond.vercel.app/)
-
 ## ✨ Features
 
 - **Resume Upload**: Support for PDF and DOCX formats
