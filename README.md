@@ -44,8 +44,8 @@ Check out the live demo: [AI Resume Analyzer](https://resume-analyzer-blond.verc
 ### Frontend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-resume-analyzer.git
-   cd ai-resume-analyzer
+   git clone https://github.com/AdityaB786/Resume_analysis.git
+   cd Resume_analysis
    ```
 
 2. Install frontend dependencies:
@@ -64,7 +64,7 @@ Check out the live demo: [AI Resume Analyzer](https://resume-analyzer-blond.verc
    ```bash
    cd backend
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate  
    ```
 
 2. Install dependencies:
